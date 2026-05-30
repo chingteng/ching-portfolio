@@ -3,8 +3,8 @@ export default function Navbar() {
     <nav className="flex gap-8 text-sm">
       <a href="/">Home</a>
       <a href="/about">About</a>
-      <a href="/work">Capabilities</a>
-      <a href="/resume">Resume</a>
+      <a href="/work">Work</a>
+      <a href="mailto:chinglunteng@gmail.com">Contact</a>
     </nav>
   );
 }
