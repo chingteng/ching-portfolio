@@ -1,10 +1,8 @@
-import Navbar from "./components/Navbar";
+
 
 export default function Home() {
   return (
     <main className="mx-auto max-w-4xl px-6 py-20">
-
-      <Navbar />
 
       <p className="mb-4 text-sm text-gray-500">Ching Lun Teng</p>
 
